@@ -1,9 +1,8 @@
----
 layout: post
-title: Sample post
-tags: [test, sample]
+title: 라니냐가 온다
+tags: [라니냐, La Niña, 엘리뇨, El Niño, ENSO, 기후]
 ---
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
+기후변화는 대기와 해양의 밀접한 상호작용속에서 일어난다. 과학자들은 이러한 기후변화에서 시공간적으로 다양한 패턴들을 찾아내고 있다. 어떤 패턴은 천년에서 십만 년 주기로 일어나는 반면에 어떤 패턴은 수년에서 수십년 주기로 발생한다. 이들 중 많이 알려진 것이 엘리뇨-남방진동으로 2-7년 마다 일어나고 있다. Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
 
 * Consectetur adipiscing elit
 * Donec a diam lectus

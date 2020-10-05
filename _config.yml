@@ -7,7 +7,7 @@ url: "https://algalove.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Digital Oceanus
+  title: OpenScience Ocean
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash

@@ -5,7 +5,7 @@ tags: [라니냐, La Niña, 엘리뇨, El Niño, ENSO, 기후]
 ---
 # 라니냐가 온다
 
-![front_lanina](./2020-10-05-LaninaComing/post_01_lanina.png)
+![front_lanina](./post_01_lanina.png)
 
 지난 9월에 우리나라 기상청과 NOAA 기후예측센터(CPC)의 ENSO 경보시스템은 라니냐가 시작되었고 북반구에서는 겨울동안 그 영향이 지속될 전망이라고 공식 발표하였다.
 
